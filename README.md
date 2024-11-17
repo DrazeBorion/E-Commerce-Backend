@@ -43,11 +43,3 @@ For PUT and POST request you must include a body in JSON format.
 ## License
 
 This project is protected under the MIT License
-
-## Questions
-
-For more questions contact [bewtaich](https://github.com/bewtaich) at <bewtaich@gmail.com>
-
-## Walkthrough
-
-https://drive.google.com/file/d/1W8ShVJC0JKsy2rw5CY5sXwiIsDAh4yRI/view
